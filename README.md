@@ -22,7 +22,6 @@ yarn start or npm start
 After that, you will see the app opened in your web navigator.
 
 ## NOTES
-
 You can see the project in production here [NETFLIX CLONE](https://netflix-clone-eh.netlify.app)
 
 ## Thank you
